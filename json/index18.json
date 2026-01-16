@@ -86,52 +86,12 @@
       "quickSearch": 0
     },
     {
-      "key": "*老鸭资源",
-      "name": "*老鸭资源",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "pwd_袜子",
-      "name": "袜子",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "💞白嫖资源💞",
       "name": "💞白嫖资源💞",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "*AIvin",
-      "name": "AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "*9号资源",
-      "name": "*9号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "dadiapi.com",
-      "name": "成人09",
-      "type": 0,
-      "api": "http://dadiapi.com/api.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "91md.me",
@@ -142,47 +102,11 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "gdlsp.com",
-      "name": "成人36",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
+     {
       "key": "kxgav.com",
       "name": "成人44",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "msnii.com",
-      "name": "成人46",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lbapi9.com",
-      "name": "成人50",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xrbsp.com",
-      "name": "成人66",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
