@@ -101,15 +101,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    },
-     {
-      "key": "kxgav.com",
-      "name": "成人44",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     }
   ],
   "parses": [
