@@ -61,46 +61,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
-    },
-    {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "*黄AV",
-      "name": "*黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php"
-    },
-    {
-      "key": "💞香奶儿资源💞",
-      "name": "💞香奶儿资源💞",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "💞白嫖资源💞",
-      "name": "💞白嫖资源💞",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
